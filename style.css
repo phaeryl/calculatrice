@@ -1,0 +1,59 @@
+#main-container {
+    margin: auto;
+    height: 380px;
+    width: 400px;
+    background-color: #191b28;
+    border-radius: 3%;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.30) 0px 10px 20px;
+}
+
+.large-button {
+    background-color: #64278f;
+    width: 100px;
+    height: 50px;
+    color: white;
+    border-radius: 5%;
+    margin: 2px;
+    border: 1px solid black;
+}
+.purple
+{
+    background-color: #64278f;
+
+}
+
+.pink
+{
+    background-color: #fb0066;
+
+}
+.small-button {
+    width: 50px;
+    height: 50px;
+    color: white;
+    border-radius: 5%;
+    border: 1px solid black;
+    margin: 2px;
+    
+}
+
+#number-output {
+    background-color: #dcdbe1;
+    border: solid black 0.5px;
+    color: black;
+    border-radius: 5px;
+    width: 90%;
+    height: 50px;
+
+}
+.row
+{
+    display: flex;
+
+    margin-bottom: 5px;
+}
+#number-output-container
+{
+    display: flex;
+}
